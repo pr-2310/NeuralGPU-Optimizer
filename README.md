@@ -4,7 +4,7 @@ This README outlines the procedure for training neural network models on NVIDIA 
 
 ## Getting Started
 
-### Accessing NYU HPC and Dataset Preparation
+### Accessing NYU HPC and Dataset Preparation OR Use Own GPU
 
 1. **Open Command Prompt**: Start by opening your command prompt or terminal on your local machine.
 2. **SSH into NYU HPC Gateway**:
