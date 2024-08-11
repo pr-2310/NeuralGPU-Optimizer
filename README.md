@@ -21,13 +21,10 @@ ssh burst
 
 2. **Prepare the Environment**: Load necessary modules for GPU access and singularity containers as per HPC documentation.
 
-### Repository Cloning and Profiling Preparation
+### Profiling Preparation
 
-1. **Clone PyTorch Examples**:
-git clone https://github.com/pytorch/examples.git
-2. **Navigate to ImageNet Directory**:
-cd examples/imagenet
-3. **Modify for Profiling**: Integrate profiling commands into the training script as needed for detailed analysis.
+1. **Use my imagenet code file from this repository**
+2. **Modify for Profiling**: Integrate profiling commands into the training script as needed for detailed analysis.
 
 ### Profiling Execution
 
